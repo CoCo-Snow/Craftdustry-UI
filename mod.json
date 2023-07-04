@@ -1,0 +1,9 @@
+name: "cd-ui"
+displayName: "Craftdustry - UI Pack"
+subtitle: "[Addon for Craftdustry]"
+description: "This adds UI elements meant for the Craftdustry Texturepack, but as some might don't want them, I put them in a seperate mod."
+author: "Yoru Kitsune"
+version: "1.0.0"
+minGameVersion: "145"
+repo: "Yoru-Kitsune/Craftdustry-ui-pack"
+hidden: true
