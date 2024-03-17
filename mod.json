@@ -1,9 +1,9 @@
 name: "cd-ui"
 displayName: "Craftdustry: UI"
 subtitle: "Release: 1.0.0"
-description: "This mod brings you a whole new UI look based on Minecraft! Works best with my other Craftdustry mods."
-author: "Yoru Kitsune"
+description: "This mod brings you a whole new UI look based on the new Bedrock Edition UI of Minecraft! Works best with my 'Craftdustry: Survival' mod."
+author: "CoCo Snow"
 version: "1.0.0"
-minGameVersion: "145"
-repo: "Yoru-Kitsune/Craftdustry-UI"
+minGameVersion: "146"
+repo: "CoCo-Snow/Craftdustry-UI"
 hidden: true
